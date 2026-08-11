@@ -73,7 +73,7 @@ Then go to `http://localhost:8501` in your browser.
 
 ## 🧠 What Is Gemini?
 
-Gemini is Google DeepMind’s family of large language models. This app uses the **Gemini 1.5 Flash** version — optimized for fast, cost-effective inference. Great for chat, summarization, coding, and more.
+Gemini is Google DeepMind’s family of large language models. This app uses the **Gemini 3.6 Flash** version — optimized for fast, cost-effective inference. Great for chat, summarization, coding, and more.
 
 📚 [Learn more about Gemini](https://ai.google.dev/)
 
