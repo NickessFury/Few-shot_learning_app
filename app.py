@@ -29,7 +29,7 @@ if api_key:
     if st.button("🚀 Generate Response") and user_prompt.strip():
         with st.spinner("Generating..."):
             try:
-                model = genai.GenerativeModel("gemini-1.5-flash-latest")
+                model = genai.GenerativeModel("gemini-3.6-flash")
                 response = model.generate_content(
                     user_prompt,
                     generation_config={
