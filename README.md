@@ -1,4 +1,4 @@
-# 🤖 Few-Shot Learning App with Gemini 1.5 (Streamlit)
+# 🤖 Few-Shot Learning App with Gemini 3.6 (Streamlit)
 
 This is a lightweight interactive app built with **Streamlit** and **Google's Gemini 1.5 Flash** model. It allows you to type in prompts, experiment with model parameters like `temperature` and `top_p`, and instantly see the AI's response. Ideal for learning, prototyping, and exploring how large language models behave.
 
